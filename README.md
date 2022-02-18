@@ -9,4 +9,4 @@
 - A media casting application with lockable options made for people with disabilities.
 - An application that allows students order food from the school bar... the main purpose of this project is reducing crowds of people as much as possible in front of the school bar.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukotty&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukotty&show_icons=true&theme=onedark&hide_border=true)
